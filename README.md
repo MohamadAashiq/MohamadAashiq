@@ -1,4 +1,4 @@
-<h1 align="center"># Hi 👋, I'm Mohamad Aashik</h1>
+<h1 align="center"> Hi 👋, I'm Mohamad Aashik</h1>
 <h3 align="center">A passionate full-stack developer from Sri lanka</h3>
 I am likely more creative to Front-end and Designing UI/UX
 
