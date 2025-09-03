@@ -15,13 +15,13 @@ I am likely more creative to Front-end and Designing UI/UX
   <a href="https://github.com/MohamadAashiq" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub">
   </a>
-  <a href="[https://www.linkedin.com/in/ravindu-anupama](https://www.linkedin.com/in/mohamad-aashik-30734a296?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank">
+  <a href="https://www.linkedin.com/in/mohamad-aashik-30734a296?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://www.facebook.com/share/1FwxZzvCiR/" target="_blank">
     <img src="https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=facebook&logoColor=white" alt="Facebook">
   </a>
-<a href="[https://www.instagram.com/yourusername](https://www.instagram.com/mohamed_aashiq23?igsh=eThpYXlnNWFzOWp0)" target="_blank"> 
+<a href="https://www.instagram.com/mohamed_aashiq23?igsh=eThpYXlnNWFzOWp0" target="_blank"> 
   <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"> 
 </a>
 
