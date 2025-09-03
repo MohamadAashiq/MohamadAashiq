@@ -1,9 +1,10 @@
 <h1 align="center"># Hi 👋, I'm Mohamad Aashik</h1>
-<h3 align="center">A passionate frontend developer from Sri lanka</h3>
-I am a full-stack developer
+<h3 align="center">A passionate full-stack developer from Sri lanka</h3>
+I am likely more creative to Front-end and Designing UI/UX
 
-- 🌱 I’m currently learning Vocational Training Authority   
-- 🚀 I’m currently learning PHP/Java/C/Javascript.  
+- 🌱 I’m Complete my Diploma at Vocational Training Authority
+- 💻 I’m already good at C / HTML / CSS / PHP / Java / JavaScript
+- 🚀 I’m currently learning React / React Native / flutter / Node.js  
 - 🎮 In my free time, I enjoy gaming. 
 - 📫 How to reach me mohamadaashiq.361@gmail.com
 
