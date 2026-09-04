@@ -2,9 +2,9 @@
 <h3 align="center">A passionate full-stack developer from Sri lanka</h3>
 I am likely more creative to Front-end and Designing UI/UX
 
-- 🌱 I’m Complete my IT Diploma at Vocational Training Authority
-- 💻 I’m already good at C / HTML / CSS / PHP / Java / JavaScript
-- 🚀 I’m currently learning React / React Native / flutter / Node.js
+- 🌱 I’m B.Tech in Software Intelligent System Undergraduate Student in University of Vocational Technology
+- 💻 I’m already good at C / HTML / CSS / PHP / Java / JavaScript / React / React Native / Laravel / MySQL / Node.js
+- 🚀 I’m currently learning PostgreSQL  / Prisma ORM / flutter 
 - 🎨 In designing, I’m good at Figma / Photoshop / Illustrator / Canva / After Effects 
 - 🎮 In my free time, I enjoy gaming & Building Some stuffs 
 - 📫 How to reach me mohamadaashiq.361@gmail.com
